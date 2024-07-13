@@ -1,0 +1,49 @@
+{
+    "name": "Fried Prawns with Pepper Garlic Sauce",
+    "description": "A true Thai favorite! Delicious fried prawns mixed with a flavorful pepper garlic sauce.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/13.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/13",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Thai" },
+      { "trait_type": "Cooking Method", "value": "Fried" },
+      { "trait_type": "Total Time", "value": 30 },
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 250 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "500g prawns" },
+        { "amount": 0, "unit_type": "none", "ingredient": "5-6 cloves garlic, chopped" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons oyster sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tablespoon soy sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon black pepper" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon sugar" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/2 cup flour for coating" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 cup cooking oil for frying" }
+      ],
+      "instructions": [
+        "Fry chopped garlic until crispy and golden brown, then set aside.",
+        "Make the sauce by adding oyster sauce, soy sauce, chopped garlic, pepper, and sugar. Sauté well.",
+        "Dip prawns in flour and fry until golden brown, but don’t overcook them.",
+        "Mix the cooked prawns with the sauce, then sprinkle the crispy garlic on top."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "250",
+        "carbohydrates": "10g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "fat": "15g",
+        "saturated_fat": "3g",
+        "protein": "20g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0xb3afd3ed",
+      "submitter": "0x6e68377bfaf57cd086435614b3ab63bd30b1bb65"
+    }
+  }
+  

@@ -1,0 +1,52 @@
+{
+    "name": "Couscous Feta Salad",
+    "description": "A refreshing and flavorful Couscous Feta Salad with a zesty mustard dressing. Perfect for a light lunch or a side dish at dinner. The combination of feta cheese, parsley, cucumber, green onions, pine nuts, and tomato makes it a healthy and delicious choice.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/7.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/7",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Mediterranean" },
+      { "trait_type": "Cooking Method", "value": "Mixed" },
+      { "trait_type": "Total Time", "value": 30 },
+      { "trait_type": "Servings", "value": 4 },
+        { "trait_type": "Calories", "value": 570 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "10 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "**Mustard Dressing**" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon salt" },
+        { "amount": 0, "unit_type": "none", "ingredient": "½ teaspoon ground pepper" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons red wine vinegar" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 ½ tablespoons Dijon mustard" },
+        { "amount": 0, "unit_type": "none", "ingredient": "½ cup olive oil" },
+        { "amount": 0, "unit_type": "none", "ingredient": "**Salad**" },
+        { "amount": 0, "unit_type": "none", "ingredient": "4 cups cooked couscous, fluffed" },
+        { "amount": 0, "unit_type": "none", "ingredient": "4 ounces Feta cheese, crumbled" },
+        { "amount": 0, "unit_type": "none", "ingredient": "½ cup chopped parsley" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 medium cucumber, peeled, seeded and chopped" },
+        { "amount": 0, "unit_type": "none", "ingredient": "6 green onions, chopped" },
+        { "amount": 0, "unit_type": "none", "ingredient": "¼ cup pine nuts, toasted" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tomato, seeded and chopped" }
+      ],
+      "instructions": [
+        "Combine dressing ingredients and set aside.",
+        "Place salad ingredients in a large bowl and toss with prepared dressing.",
+        "Refrigerate to chill before serving."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "570",
+        "carbohydrates": "30g",
+        "fiber": "2.5g",
+        "sugar": "3.5g",
+        "fat": "44g",
+        "saturated_fat": "9g",
+        "protein": "10g"
+      },
+      "original_recipe_url": "https://warpcast.com/awedjob.eth/0xdb0788de"
+    }
+  }
+  

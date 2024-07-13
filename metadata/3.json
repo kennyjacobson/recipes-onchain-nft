@@ -1,0 +1,72 @@
+{
+    "name": "Chicken Étouffée",
+    "description": "This recipe for Chicken Étouffée may or may not be authentic, but it sure is delicious!",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/3.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/3",
+    "attributes": [
+        { "trait_type": "Diet", "value": "Non-Vegetarian" },
+        { "trait_type": "Cuisine", "value": "Cajun" },
+        { "trait_type": "Cooking Method", "value": "Stewed" } ,
+        { "trait_type": "Total Time", "value": 115 },
+        { "trait_type": "Servings", "value": 8 },
+        { "trait_type": "Calories", "value": 370 }
+    ],
+    "recipe": {
+      "servings": 8,
+      "prep_time": "15 minutes",
+      "cook_time": "1 hour 40 minutes",
+      "total_time": "1 hour 55 minutes",
+      "original_recipe_url": "https://wholefully.com/chicken-etouffee/",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons olive oil" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 pounds boneless, skinless chicken thighs" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Salt and black pepper" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/2 cup (1 stick) butter" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2/3 cup all purpose flour" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 large onion, diced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 large green bell pepper, diced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "3 stalks celery, diced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "5 cloves garlic, minced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 bottle beer (amber is good)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 bay leaves" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 10-ounce can diced tomatoes with chiles" },
+        { "amount": 0, "unit_type": "none", "ingredient": "3 cups chicken stock" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tablespoon maple syrup" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons Cajun seasoning (Tony Chachere's recommended)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons Worcestershire sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Louisiana hot sauce, to taste (Crystal recommended)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Rice, minced parsley and diced green onions for serving" }
+      ],
+      "instructions": [
+        "Heat the olive oil over high heat in a heavy-bottom cast iron Dutch oven. Season the chicken thighs liberally with salt and pepper. Working in batches, brown each side of the thighs for 2-3 minutes, or until just seared and browned. Make sure not to crowd the pan. Remove the thighs to a plate, and continue with remaining thighs.",
+        "Once all thighs are brown, lower heat to medium-low, then add the butter to the pot and melt completely. Add in the flour, and stir well to combine.",
+        "Continue stirring constantly (or at least, very frequently), until the mixture is just a little darker than peanut butter, about 20-25 minutes. Make sure to scrape the 'corners' of the pan to avoid any burning.",
+        "Once the roux is the right color, add in the onion, bell pepper, celery, and garlic. Cook until just beginning to soften, about 10 minutes.",
+        "Pour in the beer, and scrape the bottom of the pan to deglaze it and get all the good browned chicken bits in the étouffée.",
+        "Add in the bay leaves, diced tomatoes with chiles, chicken stock, maple syrup, Cajun seasoning, Worcestershire sauce, and the chicken thighs. Also add in salt, pepper, and hot sauce to taste.",
+        "Turn heat up to high, bring to a boil, then reduce heat and simmer for 45-50 minutes, or until the mixture is thick, bubbly, and the chicken thighs are falling apart. Use two forks to shred the chicken thighs if they need any help.",
+        "Serve with a big pile of rice, plus extra hot sauce for those who like it a little bit spicier. Top with minced parsley and diced green onions."
+      ],
+      "nutrition_facts": {
+        "calories": "370",
+        "total_fat": "14g",
+        "saturated_fat": "4g",
+        "trans_fat": "0g",
+        "unsaturated_fat": "10g",
+        "cholesterol": "141mg",
+        "sodium": "1330mg",
+        "carbohydrates": "27g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "protein": "33g"
+      },
+      "notes": [
+        "Make sure to taste along the way while cooking, the heat can really build in this dish, and it's better to let your dinner guests customize their own heat with hot sauce on the table than blow them out of your kitchen with their first bite.",
+        "Étouffée really is better the next day. Stash it in the fridge for at least 24 hours before serving to hear a big chorus of 'oohs' and 'ahhs' when you serve it.",
+        "Beer not your thing? No problem. Just use an extra cup and a half of chicken stock in place of it.",
+        "Speaking of chicken stock, homemade is an absolute must with this dish—the flavor is worth the extra time. If you're in a pinch, make sure you look for high quality low-sodium chicken stock from the grocery store.",
+        "The influence for this recipe comes from a lot of places. Check out these folks for other étouffée recipes: Emeril Lagasse, Real Cajun Recipes, Eat Live Run, The Curvy Carrot."
+      ]
+    }
+  }
+  

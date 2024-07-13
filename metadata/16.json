@@ -1,0 +1,47 @@
+{
+    "name": "Thai Omelet with a Twist",
+    "description": "A fluffy omelet topped with chili paste stir-fried minced pork and fresh chili. Super easy to make and incredibly tasty!",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/16.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/16",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Thai" },
+      { "trait_type": "Cooking Method", "value": "Stir-fried" },
+      { "trait_type": "Total Time", "value": 20 },
+      { "trait_type": "Servings", "value": 2 },
+      { "trait_type": "Calories", "value": 350 }
+    ],
+    "recipe": {
+      "servings": "2 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "200g minced pork (about 1/2 pound)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "4 large eggs" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons chili paste" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1-2 fresh chilies, sliced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 cloves chopped garlic (approximately 1 teaspoon)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons milk" }
+      ],
+      "instructions": [
+        "Stir-fry minced pork with chili paste and garlic, then set aside.",
+        "Mix eggs with a little milk and cook until 30% done.",
+        "Add the pork and fresh chili on top.",
+        "Cook until the egg is 70% done."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "350",
+        "carbohydrates": "4g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "fat": "25g",
+        "saturated_fat": "8g",
+        "protein": "28g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0xcb266915",
+      "submitter": "0x6e68377bfaf57cd086435614b3ab63bd30b1bb65"
+    }
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "name": "Stir-fry Pork with Mala Sauce",
+    "description": "A flavorful and easy-to-make Chinese dish, Stir-fry Pork with Mala Sauce features tender pork rashers and vegetables sautéed with a spicy mala paste. Ready in just 15 minutes, it's perfect for a quick and delicious meal.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/10.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/10",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Chinese" },
+      { "trait_type": "Cooking Method", "value": "Stir-fry" },
+      { "trait_type": "Total Time", "value": 15 },
+      { "trait_type": "Servings", "value": 4 },
+        { "trait_type": "Calories", "value": 399 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "Chopped garlic" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Sliced onion" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Brussel sprouts (or any vegetable you prefer)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Pork rashers" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Mala paste" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Oyster sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Soy sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Sugar" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Black pepper" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Chili flakes (optional)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Chinese cooking wine" }
+      ],
+      "instructions": [
+        "Boil your vegetables until cooked, then set them aside.",
+        "Sauté chopped garlic and sliced onion in a pan until they are tender, then set them aside.",
+        "In the same pan, fry the pork rashers until they turn golden brown.",
+        "Add the cooked vegetables and sautéed garlic and onion back into the pan with the pork. Season with Mala paste, oyster sauce, soy sauce, sugar, black pepper, chili flakes (optional), and Chinese cooking wine.",
+        "Mix everything well and cook for a few more minutes."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "399",
+        "carbohydrates": "15g",
+        "fiber": "3.1g",
+        "sugar": "6.4g",
+        "fat": "25g",
+        "saturated_fat": "8.75g",
+        "protein": "22.5g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0x4b6fcce9"
+    }
+  }
+  

@@ -1,0 +1,49 @@
+{
+    "name": "Lemon Posset",
+    "description": "A delightful and refreshing lemon dessert that is easy to make with just a few ingredients. Perfect for impressing your guests with minimal effort.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/6.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/6",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Vegetarian" },
+      { "trait_type": "Cuisine", "value": "British" },
+      { "trait_type": "Cooking Method", "value": "Refrigerated" },
+      { "trait_type": "Total Time", "value": 1440 },  
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 588 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "10 minutes",
+      "total_time": "1440 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "5 lemons" },
+        { "amount": 0, "unit_type": "none", "ingredient": "500g heavy cream 33%" },
+        { "amount": 0, "unit_type": "none", "ingredient": "145g sugar" },
+        { "amount": 0, "unit_type": "none", "ingredient": "vanilla or vanilla extract" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 sheet of gelatin, soaked in cold water (optional)" }
+      ],
+      "instructions": [
+        "Cut lemons into halves, remove the pulp, squeeze the juice of 3 lemons.",
+        "Heat the heavy cream, sugar, and vanilla in a saucepan until almost boiling, but don't let it boil.",
+        "Add lemon juice and stir well.",
+        "Allow the mixture to cool slightly, then add the soaked gelatin (if using), stirring until fully dissolved.",
+        "Pour the mixture into the lemon halves.",
+        "Refrigerate overnight or until firm."
+      ],
+      "notes": [
+        "Enjoy your dessert! 💛",
+        "Tip: There is no gelatin in the original recipe, but you can add it if you're making the recipe for the first time and are worried that the cream won't thicken up."
+      ],
+      "nutrition_facts": {
+        "calories": "588",
+        "carbohydrates": "43g",
+        "fiber": "1.25g",
+        "sugar": "38g",
+        "fat": "45g",
+        "saturated_fat": "27.5g",
+        "protein": "3g"
+      },
+      "original_recipe_url": "https://warpcast.com/kriptokotya/0x610b6ada"
+    }
+  }
+  

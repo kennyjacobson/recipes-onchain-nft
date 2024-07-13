@@ -1,0 +1,49 @@
+{
+    "name": "Wasabi Lemon Cream Sauce Seared Salmon",
+    "description": "A lovely Japanese twisted dish featuring seared salmon with a creamy wasabi lemon sauce.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/15.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/15",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Japanese" },
+      { "trait_type": "Cooking Method", "value": "Seared" },
+      { "trait_type": "Total Time", "value": 30 },
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 400 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "4 skin-on salmon fillets (150-200g each)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Salt (to taste, about 1/2 teaspoon)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 lemon (for juice and zest)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1-2 teaspoons wasabi paste (to taste)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 cup heavy cream" },
+        { "amount": 0, "unit_type": "none", "ingredient": "3 cloves chopped garlic" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 small or 1/2 medium chopped onion" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons butter" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon sugar" }
+      ],
+      "instructions": [
+        "Make the sauce: Sauté chopped garlic and onion in butter until caramelized. Add cream, lemon juice, wasabi, salt, and sugar. Mix well and cook until slightly thickened, then set aside.",
+        "Sear the salmon: Season the salmon with a bit of salt. Heat your pan until hot, place the salmon skin-side down, and cook until the skin is golden brown. Flip and cook for a couple more minutes until you have perfectly cooked salmon.",
+        "Finish it off: Pour the sauce over the salmon, and there you go a lovely Japanese twisted dish!"
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "400",
+        "carbohydrates": "5g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "fat": "30g",
+        "saturated_fat": "15g",
+        "protein": "25g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0x73ae9cd4",
+      "submitter": "0x6e68377bfaf57cd086435614b3ab63bd30b1bb65"
+    }
+  }
+  

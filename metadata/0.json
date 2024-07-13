@@ -1,0 +1,36 @@
+{
+    "name": "Chef Token",
+    "description": "This token enables various privileges on the Recipes on Chain platform.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/0.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/0",
+    "attritbutes": [
+        {
+            "trait_type": "Role",
+            "value": "Chef"
+        }
+    ],
+    "recipe": {
+        "servings": 0,
+        "prep_time": "0 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "0 minutes",
+        "original_recipe_url": "",
+        "ingredients": [],
+        "instructions": [],
+        "nutrition_facts": {
+            "calories": "0 kcal",
+            "carbohydrates": "0g",
+            "protein": "0g",
+            "fat": "0g",
+            "saturated_fat": "0g",
+            "sodium": "0mg",
+            "potassium": "0mg",
+            "fiber": "0g",
+            "sugar": "0g",
+            "vitamin_a": "0",
+            "calcium": "0mg",
+            "iron": "0mg"
+        },
+        "notes": []
+    }
+}

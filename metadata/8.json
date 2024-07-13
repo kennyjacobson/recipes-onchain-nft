@@ -1,0 +1,43 @@
+{
+  "name": "Chili Lime Watermelon",
+  "description": "This chili lime watermelon is the perfect summer snack! It's savory and sweet with crumbled cotija cheese and lots of lime. Delish!",
+  "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/8.png",
+  "external_url": "https://recipesonchain.xyz/pages/recipe/view/8",
+  "attributes": [
+    { "trait_type": "Diet", "value": "Vegetarian" },
+    { "trait_type": "Cuisine", "value": "Mexican" },
+    { "trait_type": "Cooking Method", "value": "Mixed" },
+    { "trait_type": "Total Time", "value": 15 },
+    { "trait_type": "Servings", "value": 2 },
+    { "trait_type": "Calories", "value": 131 }
+  ],
+  "recipe": {
+    "servings": "2 servings",
+    "prep_time": "15 minutes",
+    "total_time": "15 minutes",
+    "ingredients": [
+      { "amount": 0, "unit_type": "none", "ingredient": "4 cups cubed watermelon" },
+      { "amount": 0, "unit_type": "none", "ingredient": "1 pinch of salt" },
+      { "amount": 0, "unit_type": "none", "ingredient": "¼ teaspoon chili powder" },
+      { "amount": 0, "unit_type": "none", "ingredient": "1 lime, zest grated and juiced" },
+      { "amount": 0, "unit_type": "none", "ingredient": "3 tablespoons crumbled cotija cheese" },
+      { "amount": 0, "unit_type": "none", "ingredient": "1 tablespoon chopped fresh cilantro" }
+    ],
+    "instructions": [
+      "Place the cubed watermelon in a large bowl. Sprinkle with the pinch of salt and the chili powder (using more if you wish!). Toss well.",
+      "Squeeze on the lime juice and top with the lime zest.",
+      "Add the crumbled cotija cheese and cilantro. Serve immediately!"
+    ],
+    "notes": [],
+    "nutrition_facts": {
+      "calories": "131",
+      "carbohydrates": "26g",
+      "fiber": "2g",
+      "sugar": "18.5g",
+      "fat": "2.5g",
+      "saturated_fat": "1.5g",
+      "protein": "1.5g"
+    },
+    "original_recipe_url": "https://warpcast.com/kevinmfer/0xe4548088"
+  }
+}

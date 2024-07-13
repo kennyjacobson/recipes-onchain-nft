@@ -1,0 +1,48 @@
+{
+    "name": "Korean BBQ Style on a Budget",
+    "description": "A super easy 15-minute cooking adventure! Quick, delicious, and budget-friendly Korean BBQ style pork rashers.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/14.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/14",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Korean" },
+      { "trait_type": "Cooking Method", "value": "Sear" },
+      { "trait_type": "Total Time", "value": 15 },
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 300 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "500g pork rashers" },
+        { "amount": 0, "unit_type": "none", "ingredient": "5-6 cloves garlic" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons sesame oil" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon salt" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon garlic powder" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons Ssamjang (Korean paste, optional)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "10 leaves of your favorite veggie (lettuce, perilla leaves, etc.)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 cup kimchi" }
+      ],
+      "instructions": [
+        "Sear pork rashers and garlic until they have a golden brown crust, then cut the pork into small pieces.",
+        "Dip the pork pieces into a simple sauce made of sesame oil, salt, and garlic powder, or use Ssamjang (Korean paste).",
+        "Place the pork and seared garlic on a piece of your favorite veggie, add some kimchi, roll it up, and enjoy a flavorful bite!"
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "300",
+        "carbohydrates": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "fat": "25g",
+        "saturated_fat": "8g",
+        "protein": "15g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0xaaee891d",
+      "submitter": "0x6e68377bfaf57cd086435614b3ab63bd30b1bb65"
+    }
+  }
+  

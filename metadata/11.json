@@ -1,0 +1,88 @@
+{
+    "name": "Fresh Strawberry Ice Cream",
+    "description": "A delicious and refreshing strawberry ice cream made with fresh ripe strawberries, lemon juice, sugar, milk, heavy cream, and vanilla extract.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/11.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/11",
+    "attributes": [
+        {
+            "trait_type": "Diet",
+            "value": "Non-Vegetarian"
+        },
+        {
+            "trait_type": "Cuisine",
+            "value": "American"
+        },
+        {
+            "trait_type": "Cooking Method",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Total Time",
+            "value": 165
+        },
+        {
+            "trait_type": "Servings",
+            "value": 14
+        },
+        {
+            "trait_type": "Calories",
+            "value": 240
+        }
+    ],
+    "recipe": {
+        "servings": "14 servings",
+        "prep_time": "10 minutes",
+        "cook_time": "25 minutes",
+        "total_time": "165 minutes",
+        "ingredients": [
+            {
+                "amount": 0,
+                "unit_type": "none",
+                "ingredient": "3 cups fresh ripe strawberries, stemmed and sliced"
+            },
+            {
+                "amount": 0,
+                "unit_type": "none",
+                "ingredient": "4 tablespoons freshly squeezed lemon juice"
+            },
+            {
+                "amount": 0,
+                "unit_type": "none",
+                "ingredient": "1 ½ cups sugar, divided"
+            },
+            {
+                "amount": 0,
+                "unit_type": "none",
+                "ingredient": "1 ½ cups whole milk"
+            },
+            {
+                "amount": 0,
+                "unit_type": "none",
+                "ingredient": "2 ¾ cups heavy cream"
+            },
+            {
+                "amount": 0,
+                "unit_type": "none",
+                "ingredient": "1 ½ teaspoons pure vanilla extract"
+            }
+        ],
+        "instructions": [
+            "In a small bowl, combine the strawberries with the lemon juice and ½ cup of the sugar. Stir gently and allow the strawberries to macerate in the juices for 2 hours. Strain the berries, reserving juices. Mash or purée half the berries.",
+            "In a medium mixing bowl, use a hand mixer on low speed to combine the milk and remaining granulated sugar until the sugar is dissolved, about 1 to 2 minutes. Stir in the heavy cream, reserved strawberry juice, mashed strawberries, and vanilla.",
+            "Turn the machine on; pour the mixture into freezer bowl, and let mix until thickened, about 20 to 25 minutes. Five minutes before mixing is completed, add the reserved sliced strawberries and let mix in completely.",
+            "The ice cream will have a soft, creamy texture. If a firmer consistency is desired, transfer the ice cream to an airtight container and place in freezer for about 2 hours. Remove from freezer about 15 minutes before serving."
+        ],
+        "notes": [],
+        "nutrition_facts": {
+            "calories": "240",
+            "carbohydrates": "31g",
+            "fiber": "1g",
+            "sugar": "28g",
+            "fat": "12g",
+            "saturated_fat": "7g",
+            "protein": "3g"
+        },
+        "original_recipe_url": "https://warpcast.com/dwr.eth/0x33d12394",
+        "submitter": "0xD7029BDEa1c17493893AAfE29AAD69EF892B8ff2"
+    }
+}

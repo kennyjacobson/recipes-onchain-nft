@@ -1,0 +1,53 @@
+{
+    "name": "Dry Rub BBQ Drumsticks",
+    "description": "A flavorful and easy-to-make BBQ drumstick recipe with a savory dry rub.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/12.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/12",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "BBQ" },
+      { "trait_type": "Cooking Method", "value": "Grilled" },
+      { "trait_type": "Total Time", "value": 80 },
+      { "trait_type": "Servings", "value": 5 }
+    ],
+    "recipe": {
+      "servings": "5 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "50 minutes",
+      "total_time": "80 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "10 Chicken Drumsticks" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1.5 tsp salt" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tsp black pepper" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/2 tbsp smoked paprika" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/2 tsp garlic salt" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/4 tsp chili powder" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tsp Fine's Herbs mix" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/4 tbsp cacao powder" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tbsp brown sugar" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Dash (small) cinnamon" }
+      ],
+      "instructions": [
+        "Mix all the spices together in a bowl.",
+        "Pat the chicken drumsticks dry with paper towels.",
+        "Rub the spice mixture evenly over the chicken drumsticks.",
+        "Let the chicken sit for at least 30 minutes to absorb the flavors. (Optional: refrigerate for up to 24 hours for a more intense flavor).",
+        "Preheat your grill to medium-high heat.",
+        "Cook the chicken on the top rack of the grill on indirect heat for 45-50 minutes, turning occasionally, until fully cooked."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "344.2",
+        "carbohydrates": "5.66g",
+        "fiber": "0g",
+        "sugar": "4.8g",
+        "fat": "18.12g",
+        "saturated_fat": "5g",
+        "protein": "36.2g",
+        "sodium": "930mg"
+      },
+      "original_recipe_url": "https://warpcast.com/thewseph/0x4c4b4591",
+      "submitter": "0x8776f66e728d5c40940fe6218411a6d90e399707"
+    }
+  }
+  
