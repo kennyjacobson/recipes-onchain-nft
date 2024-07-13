@@ -1,0 +1,50 @@
+{
+    "name": "Spicy Mala Beef Stir-Fry",
+    "description": "This spicy, savory, and satisfying dish combines the best of Japanese and Chinese cuisine and is ready in no time!",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/20.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/20",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Fusion" },
+      { "trait_type": "Cooking Method", "value": "Stir-Fried" },
+      { "trait_type": "Total Time", "value": 30 },
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 500 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons chili oil from mala paste" },
+        { "amount": 0, "unit_type": "none", "ingredient": "3 cloves garlic, chopped" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 large onion, sliced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "500 grams (about 1 lb) beef, thinly sliced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons mala paste" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons soy sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons teriyaki sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon sesame oil" },
+        { "amount": 0, "unit_type": "none", "ingredient": "4 servings steamed rice" }
+      ],
+      "instructions": [
+        "Heat 2 tablespoons of chili oil from mala paste in a large pan or wok over medium heat. Add 3 cloves of chopped garlic and 1 large sliced onion, and stir-fry until the onion is tender.",
+        "Add 500 grams of thinly sliced beef to the pan. Cook until the beef is tender and juicy, stirring frequently.",
+        "Mix in 2 tablespoons of mala paste, 2 tablespoons of soy sauce, 2 tablespoons of teriyaki sauce, and 1 teaspoon of sesame oil. Stir well to combine all the flavors and cook for an additional 2-3 minutes until the sauce has thickened and coated the beef and vegetables evenly.",
+        "Pile the spicy beef and veggies over a bowl of steaming rice."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "500",
+        "carbohydrates": "50g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "fat": "20g",
+        "saturated_fat": "5g",
+        "protein": "30g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0xc00a2bc2",
+      "submitter": "0x6e68377bfaf57cd086435614b3ab63bd30b1bb65"
+    }
+  }
+  

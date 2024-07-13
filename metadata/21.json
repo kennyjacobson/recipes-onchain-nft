@@ -1,0 +1,59 @@
+{
+    "name": "Filipino Mung Bean and Chicken Stew",
+    "description": "This recipe captures the flavors of a classic Filipino dish with a hearty and nutritious blend of ingredients.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/21.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/21",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Filipino" },
+      { "trait_type": "Cooking Method", "value": "Stir-Fried" },
+      { "trait_type": "Total Time", "value": 40 },
+      { "trait_type": "Servings", "value": 6 },
+      { "trait_type": "Calories", "value": 350 }
+    ],
+    "recipe": {
+      "servings": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "2+ lbs boneless chicken thigh/breast, diced into half-inch cubes" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 large brown onion, diced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 large tomato, diced" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 bitter melon, halved, seeded, and sliced into semi-circle slices" },
+        { "amount": 0, "unit_type": "none", "ingredient": "4 cups mung beans, soaked in water overnight" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2/3 cup olive oil" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tablespoon garlic powder or minced garlic" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tablespoon fish sauce (patis)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Chicken broth (optional, as needed)" },
+        { "amount": 0, "unit_type": "none", "ingredient": "Steamed rice for serving" }
+      ],
+      "instructions": [
+        "Soak 4 cups of mung beans in water overnight.",
+        "In a 4+ quart deep frying pan or wok, heat 2/3 cup olive oil over medium heat.",
+        "Add the diced tomato and diced onion to the pan, stirring until they soften.",
+        "Add 1 tablespoon of garlic powder or minced garlic and stir.",
+        "Add 2 cups of drained mung beans to the pan and stir.",
+        "Add 1 tablespoon of fish sauce (patis) and stir well.",
+        "Add half of the diced chicken and continue to stir.",
+        "Add half of the sliced bitter melon and stir to combine.",
+        "Add the remaining 2 cups of drained mung beans and the remaining diced chicken, stirring continuously.",
+        "Add the remaining bitter melon slices and stir to mix everything well.",
+        "Reduce heat to medium-low and cook uncovered for 20 minutes, stirring occasionally. If too much liquid evaporates, add a cup of chicken broth or add broth to taste to maintain a desired consistency.",
+        "Serve the mung bean and chicken mixture over steamed rice. Enjoy!"
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "350",
+        "carbohydrates": "40g",
+        "fiber": "8g",
+        "sugar": "6g",
+        "fat": "12g",
+        "saturated_fat": "2g",
+        "protein": "25g"
+      },
+      "original_recipe_url": "https://warpcast.com/jerry-d/0xa348a89a",
+      "submitter": "@jerry-d"
+    }
+  }
+  

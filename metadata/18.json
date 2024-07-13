@@ -1,0 +1,52 @@
+{
+    "name": "Minestrone Soup",
+    "description": "A versatile minestrone soup to use up all the vegetables you have on hand.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/18.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/18",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Italian" },
+      { "trait_type": "Cooking Method", "value": "Boiled" },
+      { "trait_type": "Total Time", "value": 30 },
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 200 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "0.5 onion" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 garlic cloves" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 carrots" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 squash" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 zucchini" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 cups green beans" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 can kidney beans" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 can chickpeas" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 can whole tomatoes, then crushed" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 tbsp better than chicken bullion" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2-4 cups water to cover everything" }
+      ],
+      "instructions": [
+        "Sautee 0.5 onion, 2 garlic cloves, and 2 carrots.",
+        "Sautee 1 squash and 1 zucchini.",
+        "Add 2 cups green beans, 1 can kidney beans, 1 can chickpeas, 1 can whole tomatoes (crushed), 1 tbsp better than chicken bullion, and 2-4 cups water to cover everything.",
+        "Bring to a boil and simmer for 15 minutes."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "200",
+        "carbohydrates": "40g",
+        "fiber": "10g",
+        "sugar": "10g",
+        "fat": "4g",
+        "saturated_fat": "1g",
+        "protein": "10g"
+      },
+      "original_recipe_url": "https://warpcast.com/chicago/0x1188b7fc",
+      "submitter": "@chicago"
+    }
+  }
+  

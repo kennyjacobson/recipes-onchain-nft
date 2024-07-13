@@ -1,0 +1,51 @@
+{
+    "name": "Thai-Style Air-Fried Chicken Thighs with Tamarind Sauce",
+    "description": "Crispy air-fried chicken thighs marinated in oyster and soy sauce, served with a tangy tamarind sauce.",
+    "image": "https://nfts-dataw.s3.amazonaws.com/recipes-onchain/images/19.png",
+    "external_url": "https://recipesonchain.xyz/pages/recipe/view/19",
+    "attributes": [
+      { "trait_type": "Diet", "value": "Non-Vegetarian" },
+      { "trait_type": "Cuisine", "value": "Thai" },
+      { "trait_type": "Cooking Method", "value": "Air Fried" },
+      { "trait_type": "Total Time", "value": 75 },
+      { "trait_type": "Servings", "value": 4 },
+      { "trait_type": "Calories", "value": 450 }
+    ],
+    "recipe": {
+      "servings": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "75 minutes",
+      "ingredients": [
+        { "amount": 0, "unit_type": "none", "ingredient": "4-6 chicken thighs" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/4 cup oyster sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1/2 cup soy sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 teaspoons garlic powder" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1 teaspoon pepper" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons tamarind paste" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1-2 tablespoons sugar" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons fish sauce" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1-2 shallots, finely chopped" },
+        { "amount": 0, "unit_type": "none", "ingredient": "2 tablespoons chopped coriander" },
+        { "amount": 0, "unit_type": "none", "ingredient": "1-2 tablespoons ground roasted rice" }
+      ],
+      "instructions": [
+        "Marinate the chicken thighs with oyster sauce, soy sauce, garlic powder, and pepper. Refrigerate for 30 minutes to overnight. Discard the marinade after marination.",
+        "Air fry the chicken thighs skin-side down at 160°C for 15 minutes. Flip and cook at 160°C for another 15 minutes. Increase the temperature to 200°C and cook for an additional 5 minutes to achieve a golden brown crust.",
+        "To make the tamarind sauce, mix tamarind paste, sugar, and fish sauce in a hot pan until the mixture thickens. Stir in the chopped shallots, coriander, and ground roasted rice."
+      ],
+      "notes": [],
+      "nutrition_facts": {
+        "calories": "450",
+        "carbohydrates": "20g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "fat": "25g",
+        "saturated_fat": "7g",
+        "protein": "35g"
+      },
+      "original_recipe_url": "https://warpcast.com/yes-btc/0xd0320dd2",
+      "submitter": "0x6e68377bfaf57cd086435614b3ab63bd30b1bb65"
+    }
+  }
+  
